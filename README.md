@@ -137,4 +137,14 @@ This query can help managers identify which shops are doing the best, or where t
 
 
 <img width="1563" height="873" alt="image" src="https://github.com/user-attachments/assets/c6af64ee-d22d-409d-b74d-5ef9db8e2e21" />
+
 ## Database Information
+
+Schema Name: ns_F25MIST4610_15058_Group2
+
+Group Name: F25MIST4610_15058_Group2
+
+
+Additional Notes: All Procedures have been stored within the database in the format"TP_Q1, TP_Q2, etc."
+
+<img width="254" height="311" alt="image" src="https://github.com/user-attachments/assets/091dc394-8a5a-46c2-be73-2341286ada0d" />
